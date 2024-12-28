@@ -1,0 +1,3 @@
+load hello.test.u
+add
+project.create hello-world
